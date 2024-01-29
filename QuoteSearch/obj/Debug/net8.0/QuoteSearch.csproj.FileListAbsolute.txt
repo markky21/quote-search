@@ -1,0 +1,17 @@
+/Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearch/obj/Debug/net8.0/QuoteSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearch/obj/Debug/net8.0/QuoteSearch.AssemblyInfoInputs.cache
+/Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearch/obj/Debug/net8.0/QuoteSearch.AssemblyInfo.cs
+/Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearch/obj/Debug/net8.0/QuoteSearch.csproj.CoreCompileInputs.cache
+/Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearch/bin/Debug/net8.0/QuoteSearch
+/Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearch/bin/Debug/net8.0/QuoteSearch.deps.json
+/Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearch/bin/Debug/net8.0/QuoteSearch.runtimeconfig.json
+/Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearch/bin/Debug/net8.0/QuoteSearch.dll
+/Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearch/bin/Debug/net8.0/QuoteSearch.pdb
+/Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearch/obj/Debug/net8.0/QuoteSearch.dll
+/Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearch/obj/Debug/net8.0/refint/QuoteSearch.dll
+/Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearch/obj/Debug/net8.0/QuoteSearch.pdb
+/Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearch/obj/Debug/net8.0/QuoteSearch.genruntimeconfig.cache
+/Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearch/obj/Debug/net8.0/ref/QuoteSearch.dll
+/Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearch/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearch/obj/Debug/net8.0/QuoteSearch.csproj.AssemblyReference.cache
+/Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearch/obj/Debug/net8.0/QuoteSearch.csproj.CopyComplete
