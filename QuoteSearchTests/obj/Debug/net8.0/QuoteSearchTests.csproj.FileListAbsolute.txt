@@ -107,3 +107,4 @@
 /Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearchTests/obj/Debug/net8.0/QuoteSearchTests.pdb
 /Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearchTests/obj/Debug/net8.0/QuoteSearchTests.genruntimeconfig.cache
 /Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearchTests/obj/Debug/net8.0/ref/QuoteSearchTests.dll
+/Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearchTests/obj/Debug/net8.0/QuoteSearchTests.sourcelink.json

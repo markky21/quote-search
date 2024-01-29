@@ -15,3 +15,4 @@
 /Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearch/bin/Debug/net8.0/Newtonsoft.Json.dll
 /Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearch/obj/Debug/net8.0/QuoteSearch.csproj.AssemblyReference.cache
 /Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearch/obj/Debug/net8.0/QuoteSearch.csproj.CopyComplete
+/Users/markky21/Projects/c-sharp/QuoteSearch/QuoteSearch/obj/Debug/net8.0/QuoteSearch.sourcelink.json
